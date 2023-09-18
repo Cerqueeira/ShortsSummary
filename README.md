@@ -28,17 +28,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
 - JavaScript
-- Node e NPM
+- Node.js e NPM
 - Git e Github
 - Figma
+- Whisper AI
+- Bard AI
 
 ## 💻 Projeto
 
 O Shorts Summary é uma aplicação feita para resumir shorts do YouTube via texto.
-
-
-
-
 
 ## 🔖 Layout
 
