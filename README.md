@@ -38,6 +38,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Shorts Summary é uma aplicação feita usando inteligência artificial para resumir "shorts" do YouTube via texto.
 
+- Confira o projeto clicando <a href="https://cerqueeira-shorts-summary.vercel.app" target="_blank">AQUI</a>
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1282823495335498952). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
